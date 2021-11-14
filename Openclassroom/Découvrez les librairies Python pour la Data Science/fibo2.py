@@ -4,6 +4,3 @@ def fib(n):
         print(b, end=' ')
         a, b = b, a+b
     print()
-    
-def printos():
-    print("printos")
